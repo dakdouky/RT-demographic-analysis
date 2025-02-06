@@ -1,0 +1,7 @@
+onnx
+torch-tensorrt==2.2.0
+onnxruntime_gpu
+torchvision==0.17.2
+
+pynvml
+requests

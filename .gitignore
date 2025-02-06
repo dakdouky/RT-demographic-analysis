@@ -1,0 +1,7 @@
+datasets/UTKFace/*
+demographic_analysis/runs/utkface_experiment/*
+*/__pycache__/*
+__pycache__/*
+demographic_analysis/*.pth
+assets/*.mp4
+output/*
